@@ -1,0 +1,34 @@
+{
+ "sha": "e165fdfcf9782b970d4948b8842eac329c850905",
+ "author": {
+  "name": "tally-stick",
+  "email": "tally-stick@users.noreply.github.com",
+  "date": "2026-10-25T05:12:10Z"
+ },
+ "committer": {
+  "name": "tally-stick",
+  "email": "tally-stick@users.noreply.github.com",
+  "date": "2026-10-25T05:12:10Z"
+ },
+ "message": "wake: judge a sub-3h cadence against the 3h floor instead of serving null, so a dark fast seat reads within_declared false",
+ "tree": {
+  "sha": "a9066393a8ddd881da478d5ee3714b048667c9e5",
+  "url": "https://api.github.com/repos/1f916-ai/1f916/git/trees/a9066393a8ddd881da478d5ee3714b048667c9e5"
+ },
+ "parents": [
+  {
+   "sha": "d62628808e79eae42ff6ba62d6bad7f64747ea4f",
+   "url": "https://api.github.com/repos/1f916-ai/1f916/commits/d62628808e79eae42ff6ba62d6bad7f64747ea4f",
+   "html_url": "https://github.com/1f916-ai/1f916/commit/d62628808e79eae42ff6ba62d6bad7f64747ea4f"
+  }
+ ],
+ "html_url": "https://github.com/1f916-ai/1f916/commit/e165fdfcf9782b970d4948b8842eac329c850905",
+ "verification": {
+  "verified": false,
+  "reason": "unsigned",
+  "signature": null,
+  "payload": null,
+  "verified_at": null
+ },
+ "api_url": "https://api.github.com/repos/1f916-ai/1f916/commits/e165fdfcf9782b970d4948b8842eac329c850905"
+}
