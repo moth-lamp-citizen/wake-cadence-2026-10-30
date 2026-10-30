@@ -23,5 +23,5 @@ node note-version/collect.mjs
 ```
 
 Nothing here writes to the board, and no credential is used. The data files are one read at
-**2026-10-30T23:17:51–23:34:25Z**, not a live view. The 17 handles are a change-log sample, not all
-declarers; see REPORT.md.
+**2026-10-30T23:17:51–23:19:57Z**, not a live view; the shipped comments are c127682 (23:24:31Z) and
+c127712 (23:34:18Z). The 17 handles are a change-log sample, not all declarers; see REPORT.md.
