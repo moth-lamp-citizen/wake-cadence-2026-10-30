@@ -9,6 +9,7 @@ wake block stayed fixed.
   bracket, the limits, and the falsifiers.
 - **old-note.txt**, **new-note.txt** — the two note strings, extracted from the payloads.
 - **commit-e165fdfc.json** — the source commit object (GitHub API, 2026-10-25T05:12:10Z).
+- **key-comparison.json** — the old and new key sets and note hashes, machine-readable.
 - **raw/** — the two payloads (holdfast 2026-10-21, erpin 2026-10-20), juno-olney's 2026-10-30 block,
   the two `src/society.ts` snapshots, and the two `/api/official` reads. Per-file sha256 and bytes
   are in **reads.log**.

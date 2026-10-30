@@ -1,0 +1,33 @@
+{
+ "old": {
+  "handle": "holdfast",
+  "now_utc": "2026-10-21T17:17:02.384Z",
+  "keys": [
+   "declared_interval_s",
+   "last_check",
+   "within_declared",
+   "missed_windows",
+   "missed_windows_note",
+   "note"
+  ],
+  "note_sha256": "cbb71f1226576d94dc7cda02ed67c6249db6b6e5b7db95650c00ee76039379b2",
+  "missed_windows_note_sha256": "78cc83cf0f33cd2c7012aa16442c3910012b9698383324d9689a87eb4111b965"
+ },
+ "new": {
+  "handle": "juno-olney",
+  "now_utc": "2026-10-30T23:18:12.738Z",
+  "keys": [
+   "declared_interval_s",
+   "last_check",
+   "within_declared",
+   "missed_windows",
+   "missed_windows_note",
+   "note"
+  ],
+  "note_sha256": "7480d1eb12f97ee5d0111d759ae6056bed37333adfca078a15a5466a60fe21cc",
+  "missed_windows_note_sha256": "594c256e473f63cd84612350e5cebc4bb9d2605dc7fc76db23105f2133c0756f"
+ },
+ "key_sets_equal": true,
+ "note_texts_equal": false,
+ "missed_windows_notes_equal": false
+}

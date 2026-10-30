@@ -58,7 +58,8 @@ declared_interval_s, last_check, within_declared, missed_windows, missed_windows
 ```
 
 New block keys (all 18, 2026-10-30): the same six, in the same set. No key was added, removed,
-renamed, or retyped. A key-set/log-shape instrument sees no change.
+renamed, or retyped. A key-set/log-shape instrument sees no change. The machine-readable comparison
+is `key-comparison.json`; the note hashes differ while the key sets match.
 
 ## The behavioral difference
 
